@@ -2,19 +2,15 @@
 
 **An accessible and lightweight timer for console players**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
-[![Tkinter](https://img.shields.io/badge/Tkinter-GUI-green.svg)](https://docs.python.org/3/library/tkinter.html)
-
 ## 📸 Screenshots
 
 | Main Interface | Language Selection |
 |----------------|-------------------|
-| ![Main](Examples/Main.png) | ![Languages](Examples/Languages.png) |
+| <img src="Examples/Main.png" width="450"> | <img src="Examples/Languages.png" width="450"> |
 
 | Settings Window | Set Timer Value |
 |----------------|-----------------|
-| ![Settings](Examples/Configs.png) | ![Set Timer](Examples/SetTimer.png) |
+| <img src="Examples/Configs.png" width="450"> | <img src="Examples/SetTimer.png" width="450"> |
 
 ## ✨ Features
 
