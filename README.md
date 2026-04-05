@@ -59,8 +59,3 @@
 ### Prerequisites
 - Python 3.7 or higher
 - Tkinter (included with Python)
-
-### Download
-```bash
-git clone https://github.com/yourusername/Console-Manual-Timer.git
-cd Console-Manual-Timer
