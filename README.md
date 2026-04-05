@@ -6,7 +6,7 @@
 
 | Main Interface | Language Selection |
 |----------------|-------------------|
-| <img src="Examples/Main.png" width="450"> | <img src="Examples/Languages.png" width="450"> |
+| <img src="Examples/Main.png" width="450"> | <img src="Examples/Languages.png" width="200"> |
 
 | Settings Window | Set Timer Value |
 |----------------|-----------------|
