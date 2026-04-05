@@ -10,11 +10,11 @@
 
 | Main Interface | Language Selection |
 |----------------|-------------------|
-| ![Main Interface](Examples\Main.png) | ![Languages](Examples\Languages.png) |
+| ![Main](Examples/Main.png) | ![Languages](Examples/Languages.png) |
 
 | Settings Window | Set Timer Value |
 |----------------|-----------------|
-| ![Settings](Examples\Configs.png) | ![Set Timer](Examples\SetTimer.png) |
+| ![Settings](Examples/Configs.png) | ![Set Timer](Examples/SetTimer.png) |
 
 ## ✨ Features
 
