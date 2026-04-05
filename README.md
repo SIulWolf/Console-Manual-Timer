@@ -28,14 +28,14 @@
   - `Space` - Resume only active timers
   - `B` - Reset Round Timer and start automatically
 
-- **🌍 Multi-Language Support (14 Languages)**
+- **🌍 Multi-Language Support (13 Languages)**
   - 🇺🇸 English (US) | 🇬🇧 English (UK)
   - 🇧🇷 Português (BR) | 🇵🇹 Português (PT)
   - 🇪🇸 Español (ES) | 🇲🇽 Español (Latino)
   - 🇫🇷 Français | 🇷🇺 Русский
   - 🇯🇵 日本語 | 🇨🇳 中文
   - 🇰🇷 한국어 | 🇮🇳 हिन्दी
-  - 🇸🇦 العربية | 🏛️ Latina
+  - 🇸🇦 العربية
 
 - **⚙️ Customizable Settings**
   - Adjust vertical spacing between timers
